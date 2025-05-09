@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nithula20020206&label=Profile%20views&color=0e75b6&style=flat" alt="nithula20020206" /> </p>
 
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+
 - 🌱 I’m currently learning **Java (OOP), React, Node.js, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://nithula-portfolio-git-main-deeshanas-projects-40144c15.vercel.app/](https://nithula-portfolio-git-main-deeshanas-projects-40144c15.vercel.app/)
