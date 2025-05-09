@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nithula Hansaja</h1>
 <h3 align="center">I'm a Undergraduate Computer Science student at IIT Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nithula20020206&label=Profile%20views&color=0e75b6&style=flat" alt="nithula20020206" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nithula20020206&label=Profile%20views&color=0e75b6&style=flat" alt="nithula20020206" /> 
+
 
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
@@ -12,6 +13,7 @@
 - 📫 How to reach me **nithulahansaja2000@gmail.com**
 
 - ⚡ Fun fact **I think I'm a Overthinker**
+- </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
