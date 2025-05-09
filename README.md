@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithula Hansaja</h1>
 <h3 align="center">I'm a Undergraduate Computer Science student at IIT Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithula20020206&label=Profile%20views&color=0e75b6&style=flat" alt="nithula20020206" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nithula20020206&label=Profile%20views&color=0e75b6&style=flat" alt="nithula20020206" /> </p>
 
 - 🌱 I’m currently learning **Java (OOP), React, Node.js, MongoDB**
 
